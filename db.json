@@ -1,0 +1,44 @@
+{
+  "users": [
+    {
+      "firstName": "samuel",
+      "lastName": "Levson",
+      "email": "sam111@gmail.com",
+      "companyId": "1",
+      "likes": 0,
+      "id": 1
+    },
+    {
+      "firstName": "Lionel",
+      "lastName": "Messi",
+      "email": "messi20@gmail.com",
+      "companyId": "2",
+      "likes": 0,
+      "id": 2
+    },
+    {
+      "firstName": "Cristiano",
+      "lastName": "Ronaldo",
+      "companyId": "1",
+      "email": "cr7@gmail.com",
+      "likes": 0,
+      "id": 3
+    },
+    {
+      "firstName": "bruno",
+      "lastName": "Fenandes",
+      "companyId": "1",
+      "email": "Bfena111@gmail.com",
+      "likes": 0,
+      "id": 1
+    },
+    {
+      "firstName": "Adrian",
+      "lastName": "Mutu",
+      "companyId": "3",
+      "email": "mutu001@gmail.com",
+      "likes": 0,
+      "id": 4
+    }
+  ]
+}
