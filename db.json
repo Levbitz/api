@@ -39,6 +39,14 @@
       "email": "mutu001@gmail.com",
       "likes": 0,
       "id": 4
-    }
+    },
+    {
+      "firstName": "Magufuli",
+      "lastName": "pombe",
+      "companyId": "3",
+      "email": "mpombe01@gmail.com",
+      "likes": 0,
+      "id": 4
+    },
   ]
 }
